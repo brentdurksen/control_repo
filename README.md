@@ -1,1 +1,1 @@
-# control_repo
+# Lynda learning repo from Learning Puppet
